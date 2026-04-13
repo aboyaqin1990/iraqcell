@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-chno="1" tvg-shift="bein sport 9" tvg-name="bein sport 1" tvg-logo="bein sport 1" group-title="New",bein sport 1
 https://stream.tvhub.tv:32123/bein-sport1/index.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-shift="bein sport 2" tvg-name="bein sport 2" tvg-logo="bein sport 2" group-title="New",bein sport 2
