@@ -1,19 +1,19 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-shift="bein sport 9" tvg-name="bein sport 1" tvg-logo="bein sport 1" group-title="New",bein sport 1
+#EXTINF:-1
 https://stream.tvhub.tv:32123/bein-sport1/index.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-shift="bein sport 2" tvg-name="bein sport 2" tvg-logo="bein sport 2" group-title="New",bein sport 2
+#EXTINF:-2
 https://stream.tvhub.tv:32123/bein-sport2/index.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-shift="bein sport 3" tvg-name="bein sport 3" tvg-logo="bein sport 3" group-title="New",bein sport 3
+#EXTINF:-3
 https://stream.tvhub.tv:32123/bein-sport3/index.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-shift="bein sport 4" tvg-name="bein sport 4" tvg-logo="bein sport 4" group-title="New",bein sport 4
+#EXTINF:-4
 https://stream.tvhub.tv:32123/bein-sport4/index.m3u8
-#EXTINF:-1 tvg-chno="5" tvg-shift="bein sport 5" tvg-name="bein sport 5" tvg-logo="bein sport 5" group-title="New",bein sport 5
+#EXTINF:-5
 https://stream.tvhub.tv:32123/bein-sport5/index.m3u8
-#EXTINF:-1 tvg-chno="6" tvg-shift="bein sport 6" tvg-name="bein sport 6" tvg-logo="bein sport 6" group-title="New",bein sport 6
+#EXTINF:-6
 https://stream.tvhub.tv:32123/bein-sport6/index.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-shift="bein sport 7" tvg-name="bein sport 7" tvg-logo="bein sport 7" group-title="New",bein sport 7
+#EXTINF:-7
 https://stream.tvhub.tv:32123/bein-sport7/index.m3u8
-#EXTINF:-1 tvg-chno="8" tvg-shift="bein sport 8" tvg-name="bein sport 8" tvg-logo="bein sport 8" group-title="New",bein sport 8
+#EXTINF:-8
 https://stream.tvhub.tv:32123/bein-sport8/index.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-shift="bein sport 9" tvg-name="bein sport 9" tvg-logo="bein sport 9" group-title="New",bein sport 9
+#EXTINF:-9
 https://stream.tvhub.tv:32123/bein-sport9/index.m3u8
